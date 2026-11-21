@@ -2,11 +2,17 @@
 
 <img src="omnipanel-logo-white.png" alt="OmniPanel logo" width="176">
 
-OmniPanel is a free Android comic reader for your own collection. Open a local comic, read the whole page or follow its panels, and pick up where you left off. Your comics stay in the folders you choose.
+OmniPanel is a free comic reader for Android and Windows 11. Open a local comic, read the whole page or follow its panels, and pick up where you left off. Your comics stay in the folders you choose.
 
-**[Download OmniPanel 1.0.24 for Android](https://github.com/jogra89/OmniPanel/releases/download/v1.0.24/OmniPanel-1.0.24.apk)** · [Full feature list](FEATURES.md) · [Release notes](https://github.com/jogra89/OmniPanel/releases/tag/v1.0.24)
+**[Download OmniPanel 1.0.24 for Android](https://github.com/jogra89/OmniPanel/releases/download/v1.0.24/OmniPanel-1.0.24.apk)** · [Android feature list](FEATURES.md) · [Release notes](https://github.com/jogra89/OmniPanel/releases/tag/v1.0.24)
 
-## Start reading
+## Windows 11 x64
+
+[**Install OmniPanel for Windows · Preview 2 (.exe)**](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.2/OmniPanel-Windows-1.0-preview.2-setup-x64.exe) · [Portable ZIP](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.2/OmniPanel-Windows-1.0-preview.2-x64.zip) · [Source ZIP](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.2/OmniPanel-Windows-1.0-preview.2-source.zip)
+
+Setup installs OmniPanel for your Windows account and adds it to Start. The portable ZIP runs after you extract the entire archive and open `app/OmniPanel.exe`. Both include the .NET runtime. Read local comics and PDFs, match editions on ComicVine, and switch between guided panels, full pages, spreads, and continuous scrolling. [Full Windows feature guide, changes and test results](WINDOWS_PREVIEW_2.md) · [GitHub release](https://github.com/jogra89/OmniPanel/releases/tag/windows-v1.0-preview.2)
+
+## Start reading on Android
 
 1. On a device running Android 8.0 or later, download and open the signed APK. If prompted, allow the browser or file manager you used to install it.
 2. Open OmniPanel and add a folder containing your comics. It reads CBZ, CBR, CB7, CBT and PDF files, and you can add more than one folder.
