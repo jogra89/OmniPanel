@@ -4,13 +4,13 @@
 
 OmniPanel is a free comic reader for Android and Windows 11. Open a local comic, read the whole page or follow its panels, and pick up where you left off. Your comics stay in the folders you choose.
 
-**[Download OmniPanel 1.0.24 for Android](https://github.com/jogra89/OmniPanel/releases/download/v1.0.24/OmniPanel-1.0.24.apk)** · [Android feature list](FEATURES.md) · [Release notes](https://github.com/jogra89/OmniPanel/releases/tag/v1.0.24)
+**[Download OmniPanel 1.0.27 for Android](https://github.com/jogra89/OmniPanel/releases/download/v1.0.27/OmniPanel-1.0.27.apk)** · [Android feature list](https://github.com/jogra89/OmniPanel/releases/download/v1.0.27/FEATURES.md) · [Release notes](https://github.com/jogra89/OmniPanel/releases/tag/v1.0.27)
 
 ## Windows 11 x64
 
-[**Install OmniPanel for Windows · Preview 2 (.exe)**](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.2/OmniPanel-Windows-1.0-preview.2-setup-x64.exe) · [Portable ZIP](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.2/OmniPanel-Windows-1.0-preview.2-x64.zip) · [Source ZIP](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.2/OmniPanel-Windows-1.0-preview.2-source.zip)
+[**Install OmniPanel for Windows · Preview 7 (.exe)**](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.7/OmniPanel-Windows-1.0-preview.7-setup-x64.exe) · [Portable ZIP](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.7/OmniPanel-Windows-1.0-preview.7-x64.zip) · [Source ZIP](https://github.com/jogra89/OmniPanel/releases/download/windows-v1.0-preview.7/OmniPanel-Windows-1.0-preview.7-source.zip)
 
-Setup installs OmniPanel for your Windows account and adds it to Start. The portable ZIP runs after you extract the entire archive and open `app/OmniPanel.exe`. Both include the .NET runtime. Read local comics and PDFs, match editions on ComicVine, and switch between guided panels, full pages, spreads, and continuous scrolling. [Full Windows feature guide, changes and test results](WINDOWS_PREVIEW_2.md) · [GitHub release](https://github.com/jogra89/OmniPanel/releases/tag/windows-v1.0-preview.2)
+Setup installs OmniPanel for your Windows account and adds it to Start. The portable ZIP runs after you extract the entire archive and open `app/OmniPanel.exe`. Both include the .NET runtime. Read local comics and PDFs, match editions on ComicVine, and switch between guided panels, full pages, spreads, and continuous scrolling. [Full Windows feature guide, changes and test results](https://github.com/jogra89/OmniPanel/releases/tag/windows-v1.0-preview.7) · [GitHub release](https://github.com/jogra89/OmniPanel/releases/tag/windows-v1.0-preview.7)
 
 ## Start reading on Android
 
@@ -26,14 +26,14 @@ Setup installs OmniPanel for your Windows account and adds it to Start. The port
 - **Identify an issue.** Read embedded comic metadata or search ComicVine with your own API key. Compare covers, publishers and dates before you choose an issue or collection. The reader can show its synopsis, credits, publisher logo and available creator photos.
 - **Track your reading.** Resume from Continue Reading, mark comics as read, and sort folders or series by total page count.
 
-Local reading works offline. ComicVine searches and image downloads need internet access. Credits and portraits depend on the metadata and images available for each issue. [Explore all supported features](FEATURES.md)
+Local reading works offline. ComicVine searches and image downloads need internet access. Credits and portraits depend on the metadata and images available for each issue. [Explore all supported features](https://github.com/jogra89/OmniPanel/releases/download/v1.0.27/FEATURES.md)
 
 ## Tested on Android
 
-On a Galaxy Tab S9 FE+, OmniPanel 1.0.24 displayed all 35 pages of *Midnight Fantastic Four #2* in order through 81 guided views. Pinch zoom enlarged the artwork 2.27× in both reading modes and returned it to its original size. On some irregular pages, the reader keeps overlapping panels together or shows the whole page. [Device and build checks](TESTING.md)
+On a Galaxy Tab S9 FE+, OmniPanel 1.0.27 displayed all 35 pages of *Midnight Fantastic Four #2* in order through 81 guided views. Pinch zoom enlarged the artwork 2.27× in both reading modes and returned it to its original size. On some irregular pages, the reader keeps overlapping panels together or shows the whole page. [Device and build checks](https://github.com/jogra89/OmniPanel/releases/download/v1.0.27/TESTING.md)
 
 ## Build materials and credits
 
-OmniPanel was built with **vibe coding**. Development combined natural-language direction, AI-assisted coding and testing on a physical tablet. The release includes a rebuild kit and SHA-256 checksums for both the kit and the signed APK. [Rebuild kit](https://github.com/jogra89/OmniPanel/releases/download/v1.0.24/OmniPanel-1.0.24-rebuild-kit.zip) · [Checksums](https://github.com/jogra89/OmniPanel/releases/download/v1.0.24/SHA256SUMS.txt)
+OmniPanel was built with **vibe coding**. Development combined natural-language direction, AI-assisted coding and testing on a physical tablet. The release includes a rebuild kit and SHA-256 checksums for both the kit and the signed APK. [Rebuild kit](https://github.com/jogra89/OmniPanel/releases/download/v1.0.27/OmniPanel-1.0.27-rebuild-kit.zip) · [Checksums](https://github.com/jogra89/OmniPanel/releases/download/v1.0.27/SHA256SUMS.txt)
 
 The APK includes third-party components and fonts. Consult their bundled notices for the applicable license terms. ComicVine is a third-party service.
