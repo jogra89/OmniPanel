@@ -30,7 +30,7 @@ Local reading works offline. ComicVine searches and image downloads need interne
 
 ## Tested on Android
 
-On a Galaxy Tab S9 FE+, OmniPanel 1.0.27 displayed all 35 pages of *Midnight Fantastic Four #2* in order through 81 guided views. Pinch zoom enlarged the artwork 2.27× in both reading modes and returned it to its original size. On some irregular pages, the reader keeps overlapping panels together or shows the whole page. [Device and build checks](https://github.com/jogra89/OmniPanel/releases/download/v1.0.27/TESTING.md)
+On a Galaxy Tab S9 FE+, OmniPanel 1.0.24 displayed all 35 pages of *Midnight Fantastic Four #2* in order through 81 guided views. Pinch zoom enlarged the artwork 2.27× in both reading modes and returned it to its original size. In 1.0.27, device tests also verified forward and reverse issue pulls, four-direction panning on a magnified page, and a live first-opening ComicVine lookup. On some irregular pages, the reader keeps overlapping panels together or shows the whole page. [Device and build checks](https://github.com/jogra89/OmniPanel/releases/download/v1.0.27/TESTING.md)
 
 ## Build materials and credits
 
